@@ -97,8 +97,8 @@ Visualizations Included
 
 How to Run the Project
 1. Clone the Repository
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/bshind87/Predicting-MPG-with-PWLR-vs-Traditional-Regression-Models.git
+cd Predicting-MPG-with-PWLR-vs-Traditional-Regression-Models
 
 2. Install Dependencies
 pip install -r requirements.txt
