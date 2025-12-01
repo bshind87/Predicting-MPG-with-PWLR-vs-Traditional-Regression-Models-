@@ -55,14 +55,32 @@ Random Forest achieved the highest predictive accuracy, while PWLR provided stro
 Repository Structure
 project/
 │
+│── reports/
+│   ├── PWLR vs Traditional and Ensemble Regression Models​.pptx
+│   └── PWLR vs Traditional and Ensemble Regression Models​.pdf
+│
 │── notebooks/
 │   ├── 01_auto_mpg_cleaned.pynb
 │   └── 02_auto_mpg_modeling_and_dashboard.ipynb
 │
 │── plots/
-│   ├── comparison_dashboard.png
-│   ├── r2_rmse_mae_bars.png
-│   └── pwlr_univariate_vs_multivariate.png
+│   ├── Feature_Importance_chart.png 
+│   ├── heatmap.png
+│   ├── linear_veg_multi_prev_vs_act.png 
+│   ├── mae_comparison.png 
+│   ├── Partial_Dependence_plots.png 
+│   ├── poly2_prev_vs_act.png 
+│   ├── r_square_comparison.png 
+│   ├── Random_Forest_Feature_imp.png 
+│   ├── random_forest_red_vs_actual.png 
+│   ├── Random_Forest_residual_distribution.png 
+│   ├── Ranodom_Forest_pred_vs_act.png 
+│   ├── residual_linear_reg_multi.png 
+│   ├── residual_poly2_multi.png 
+│   ├── residual_random_forest.png
+│   ├── Results_comparison.png
+│   ├── rmse_comparison.png 
+│   └── univariate_mpg_vs_hp_fitted_curves.png
 │
 ├── Requirements.txt
 │
